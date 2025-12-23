@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>TERROR SMP — Season 8 Winter</title>
+<title>STEVE Noob — Season 8 Winter</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <style>
